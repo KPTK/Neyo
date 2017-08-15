@@ -1,0 +1,138 @@
+body{
+    background: white;
+}
+
+ul.errorlist {
+    padding-left: 0;
+}
+
+ul.errorlist > li {
+    list-style: none;
+}
+
+
+
+.col-md-12 {
+    width:100%;
+    margin-left:-12px;
+
+    background: black;
+
+}
+
+
+.navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+  font-family: 'Bungee', cursive;
+}
+
+.divA{
+  height: 4px;
+  border-top: 2px solid;
+}
+.divB{
+  height: 1px;
+  border-bottom: 1px solid;
+}​
+
+.navbar-collapse {
+
+    background: white;
+    border-color: white;
+    text-align:center;
+
+
+}
+
+
+.navbar .navbar-inverse {
+
+    background: white;
+    border-color: white;
+
+}
+
+
+.container-fluid {
+    /*this is where the annoying black line comes from as well as*/
+    /*makes the navbar overlap with jumbotron*/
+    background: white;
+    border-color: white;
+    text-align:center;
+    margin-bottom: 40px;
+}
+
+
+/*.logo {*/
+    /*background: ;*/
+/*}*/
+
+
+.row {
+    margin-right: 220px;
+    margin-left: 220px;
+}
+
+.glyphicon-star {
+    color: #CCCCCC;
+    font-size: 16px;
+}
+
+.glyphicon-star.active {
+    color: #FDB230;
+}
+
+.thumbnail {
+
+    border-radius: 0 !important;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    font-family: 'Bungee', cursive;
+    margin-bottom:16px;
+    margin-left:-12px;
+
+}
+
+.jumbotron {
+    font-family: 'Bungee', cursive;
+    background: white;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    margin-right: 235px;
+    margin-left: 223px;
+}
+
+.caption {
+   margin-left: 120px;
+}
+
+.caption {
+    margin-left: 0px;
+    text-align:center;
+}
+
+h3 {
+    font-size: 100%;
+    text-align:center;
+}
+
+.display-3 {
+    text-align:center;
+    margin-bottom: 25px;
+}
+
+.lead {
+    text-align:center;
+
+
+}
+
+.navbar-form .navbar-right {
+
+    text-align:center;
+}
+
